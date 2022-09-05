@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-🌱 I’m currently learning JavaScript, TypeScript, Go, and Python.
+🌱 I’m currently learning JavaScript, TypeScript, Go, SQL, and Python.
